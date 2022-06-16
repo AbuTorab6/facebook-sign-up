@@ -1,0 +1,82 @@
+@media screen and (max-width:980px)
+{
+    
+    .A 
+    {
+       float:none;
+    }
+    .logo-area img
+    {
+     width:100%; 
+    }
+    
+    .logo-area
+    {
+      margin:auto; 
+        margin-bottom: 30px;
+    }
+    
+    .login-area form
+    {
+       float:none;
+    }
+    
+    .login-area
+    {
+        margin:auto;
+    }
+    
+    .X
+    {
+        float:none;
+        
+    }
+    
+    .left-area
+    {
+        width:100%;
+        margin:auto;
+    }
+    
+    .right-area
+    {
+        width:100%;
+        margin:auto;
+    }
+}
+
+
+@media screen and (max-width:912px)
+{
+    
+    .B
+{
+    float:none;
+}
+    
+   .login-area label
+    {
+       display:block;
+       text-align: center;
+        margin: 5px;
+    } 
+    
+    .B input
+    {
+      
+        display:block;
+        margin:auto;
+        
+    }
+    
+    .B a
+    {
+        display:block;
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+    
+    
+}

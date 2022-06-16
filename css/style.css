@@ -1,0 +1,419 @@
+/* Header part start */
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header
+{
+    background-color: #3E5C9a;
+    overflow: hidden;
+    padding:8px;
+}
+
+.container
+{
+    width:65%;
+    margin:auto;
+    
+  
+}
+
+.logo-area
+{
+  width:25%;  
+}
+
+.login-area
+{
+   width:75%; 
+}
+.A
+{
+    float:left;
+}
+
+.login-area form
+{
+    float:right;
+}
+
+.login-area label
+{
+    display:block;
+}
+.login-area a 
+{
+    display:block;
+}
+
+.B
+{
+    float:left;
+}
+
+.logo-area img
+{
+    width:180px;
+    margin-top:15px;
+    
+}
+
+.B label
+{
+    color:white;
+    font-size: 12px;
+    margin-bottom: 5px
+    
+}
+
+.C input
+{
+    margin-right:15px;
+    padding:3px;
+    padding-right:10px;
+    border:1px solid black;
+    font-weight: 600;
+   
+}
+
+.B a
+{
+    color:lightcyan;
+    font-size:12px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+.B a:hover
+{
+    
+    text-decoration:underline;
+}
+
+
+.D input
+{
+   background-color: rgba(0, 0, 0, 0);
+    color:white;
+    margin-top: 23px;
+    border:1px solid rgb(255, 255, 255);
+    font-weight: 600;
+    padding: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size:12px;
+}
+
+.D input:hover
+{
+   background-color: #3E5C9a;
+    
+}
+/* Header part end */
+
+/* ---------------------------------------------*/
+
+/* section part start */
+
+
+.signup-area
+{
+    padding: 25px 0px;
+    background:radial-gradient(white,darkcyan);
+   
+}
+
+.left-area
+{
+
+    width:55%;
+}
+
+.right-area
+{
+    width:45%;
+  
+}
+
+.X
+{
+    float:left;
+}
+
+.signup-area
+{
+    overflow: hidden;
+}
+
+.left-area p
+{
+    margin:0px;
+  font-size: 20px;
+  font-weight: 700;
+    color:rgb(14, 56, 95);
+    width:90%;
+}
+
+.left-area img
+{
+    width:100%;
+}
+
+.right-area h1
+{
+    font-size: 36px;
+   font-weight: 600;
+    color:rgb(51, 51, 51);
+    margin:0px;
+}
+
+.right-area h4
+{
+    font-size: 19px;
+    color: rgb(29, 33, 41);
+    font-weight: 400;
+    margin:0px;
+    margin-top: 12px;
+    margin-bottom: 17px;
+    
+}
+
+
+.f
+{
+ float:left;
+    margin-right: 10px;
+  margin-bottom: 10px;  
+}
+
+.f input
+{
+    padding:10px 16px;
+    border:2px solid rgb(189, 199, 216) ;
+    border-radius: 5px;
+    
+}
+
+.g input
+{
+    width:100%;
+     margin-bottom: 10px;
+     padding:10px 16px;
+    border:2px solid rgb(189, 199, 216) ;
+    border-radius: 5px;
+}
+
+.h input
+{
+   width:100%; 
+     margin-bottom: 10px;
+     padding:10px 16px;
+    border:2px solid rgb(189, 199, 216) ;
+    border-radius: 5px;
+}
+
+.birthday h4
+{
+    margin:0px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+    color: rgb(144, 148, 156);
+    font-weight: 700;
+}
+
+.birth-date select
+{
+    border:1px solid rgb(144, 148, 156);
+    padding:5px;
+    float:left;
+    
+}
+
+.birth-date
+{
+    overflow:hidden;
+    float:left;
+    margin-right: 15px;
+    margin-top:4px;
+  
+}
+.birth-link a
+{
+   
+    font-size:13px;
+    text-decoration: none;
+    color:steelblue;
+}
+
+.birth-link
+{
+    width:192px;
+    float:left;
+}
+
+
+.birthday
+{
+    overflow: hidden;
+}
+
+.gender h4
+{
+     margin:0px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+    color: rgb(144, 148, 156);
+    font-weight: 700;
+}
+
+.gender
+{
+    margin-bottom: 10px;
+}
+
+.gender label
+{
+    margin-right: 15px;
+    font-size: 18px;
+    color: rgb(29, 33, 41);
+    font-weight: 400;
+    
+}
+
+.text-box p
+{
+    font-size: 11px;
+    color: rgb(119, 119, 119);
+    
+}
+
+
+.text-box a
+{
+    text-decoration: none;
+    color:steelblue;
+}
+
+.text-box
+{
+    width:300px;
+    margin-top:20px;
+     margin-bottom:20px;
+}
+
+
+.submit input
+{
+  padding:10px 63px ;
+    border-radius: 5px;
+   
+   background:linear-gradient(green,yellow);
+   
+ 
+}
+
+.submit input:hover
+{
+    cursor:pointer;
+    background:linear-gradient(yellow,green);
+    
+}
+
+.celebrity
+{
+    margin-top: 40px;
+}
+.celebrity p
+{
+    font-size: 11px;
+    color: rgb(119, 119, 119);
+    font-weight: 700;
+}
+
+.celebrity a
+{
+    text-decoration: none;
+    color:steelblue;
+    
+}
+
+/* section part end */
+
+/* ---------------------------------------------*/
+
+/* Footer part start */
+
+.footer-area
+{
+    padding:30px 0px;
+}
+
+.footer-area ul li 
+{
+    display:inline;
+}
+
+.footer-area ul
+{
+    margin:0px;
+    padding:0px;
+}
+
+.footer-area .top ul li
+{
+    margin-right: 5px;
+}
+
+.footer-area .middle ul li
+{
+    margin-right: 10px;
+}
+
+.footer-area ul li a
+{
+    font-size: 12px;
+    color: rgb(56, 88, 152);
+    text-decoration: none;
+}
+
+
+.footer-area ul li a:hover
+{
+    text-decoration: underline;
+}
+
+.footer-area .top .active a
+{
+  color: rgb(115, 115, 115); 
+}
+
+.footer-area .bottom span
+{
+    font-size: 12px;
+    color: rgb(115, 115, 115); 
+}
+
+.footer-area .top ul li:last-child a
+{
+    border:1px solid rgb(115, 115, 115); 
+   padding:0px 8px;
+}
+
+.footer-area hr
+{
+    border:0px;
+    border-bottom: 1px solid rgb(115, 115, 115) ;
+}
+
+.bottom
+{
+    margin-top: 25px
+}
+
+
+/* Footer part end */
